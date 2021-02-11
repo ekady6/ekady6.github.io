@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Y_Spotlight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/Y_Spotlight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+* {
+    overflow: hidden;
+    font-family: 'Y_Spotlight';
+}
+
+body {
+    background-color: #181a1d;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    overflow: hidden;
+}
+
+p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
