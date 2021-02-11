@@ -8,7 +8,7 @@
 * {
     overflow: hidden;
     font-family: 'Y_Spotlight';
-    font-size: smaller;
+    font-size: 1em;
 }
 
 body {
@@ -26,4 +26,5 @@ body {
 p {
     margin-block-start: 0;
     margin-block-end: 0;
+    padding: 1.4px;
 }
