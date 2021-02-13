@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <Helmet>
         <title>6018</title>
-        <meta name="description" content="Manufacture convenience apps." data-react-helmet="true"/>
-        <meta name="google-site-verification" content="Z5F5-UQiR6XA8okFrQoK4Wqj87dRAlk2MWGfZsmeVuM"/>
+        <meta name="description" content="Manufacture convenience apps." data-react-helmet="true" />
+        <meta name="google-site-verification" content="Pl5EyeztKHbZPtdPeFkCW5cVcd3f3ypofOvkw7VFL_g" />
       </Helmet>
       <header className="App-header">
         <p style={{marginLeft: 0.6, marginTop: 0.6, marginRight: 0.6, marginBottom: 1.6, fontSize: 2.8 + 'em'}}>6018</p>
